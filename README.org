@@ -1,11 +1,11 @@
 * Beamer Template
   This is a simple beamer template I tend to use a lot.
 
-  - `main.tex` is the main file
-  - `titlepage.tex` contains the titlepage and possibly the table of contents
-  - `slides.tex` contains all content holding slides
-  - `meta.tex` contains presentation metadata (title, author etc)
+  - =main.tex= is the main file
+  - =titlepage.tex= contains the titlepage and possibly the table of contents
+  - =slides.tex= contains all content holding slides
+  - =meta.tex= contains presentation metadata (title, author etc)
 
-  - `lib/cleanbeamertheme.sty` contains the theme
-  - `lib/lstlistingstyle.tex` contains the lstlistings theme
-  - `lib/macros.tex` contains some macros and acronyms I like to use
+  - =lib/cleanbeamertheme.sty= contains the theme
+  - =lib/lstlistingstyle.tex= contains the lstlistings theme
+  - =lib/macros.tex= contains some macros and acronyms I like to use
